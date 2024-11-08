@@ -11,3 +11,13 @@ img {
 #myModal {
     padding: 20px;
 }
+
+.modal__img {
+    height: 50px;
+
+    img {
+        height: 100%;
+        width: auto;
+        object-fit: contain;
+    }
+}
